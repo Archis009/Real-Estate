@@ -21,7 +21,6 @@ const Home = () => {
     <>
       <Navbar />
       
-      {/* Hero Section */}
       <section className="hero">
         <div className="hero-content fade-in">
           <p className="hero-subtitle text-gold">• INDIA'S PREMIER REAL ESTATE PLATFORM</p>
@@ -38,7 +37,6 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Stats Strip */}
       <section className="stats-strip">
         <div className="container stats-container">
           <div className="stat-item">
